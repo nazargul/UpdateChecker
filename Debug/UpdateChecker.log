@@ -1,0 +1,11 @@
+﻿  UpdateChecker.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\N\Desktop\UpdateChecker\UpdateChecker\UpdateChecker.cpp(167,36): warning C4101: e: неиспользованная локальная переменная
+C:\Users\N\Desktop\UpdateChecker\UpdateChecker\UpdateChecker.cpp(172,38): warning C4101: e: неиспользованная локальная переменная
+C:\Users\N\Desktop\UpdateChecker\UpdateChecker\UpdateChecker.cpp(252,16): warning C4102: std: неиспользованная метка
+  UpdateChecker.vcxproj -> C:\Users\N\Desktop\UpdateChecker\Debug\UpdateChecker.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
